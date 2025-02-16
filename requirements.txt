@@ -1,0 +1,3 @@
+streamlit==1.41.1
+llama-index==0.12.14
+qdrant-client==1.13.2
